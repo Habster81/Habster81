@@ -5,7 +5,7 @@
 
 Welcome to my GitHub profile!
 
-I develop practical software tools for video production, broadcast workflows and professional AV applications. Hence things that help me in m daily business.
+I develop practical software tools for video production, broadcast workflows and professional AV applications. Hence things that help me in my daily business.
 
 My projects focus on reliability, straightforward operation and solving real-world technical challenges.
 
