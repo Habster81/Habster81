@@ -74,6 +74,7 @@ Some projects are proprietary (Closed Source). Public GitHub repositories provid
 - [Habster Website](https://www.habster.ch)
 - [NDI Signal Stabilizer](https://www.habster.ch/ndi-signal-stabilizer/)
 - [Tally Bridge](https://www.habster.ch/tally%20bridge/)
+- [ATEM Hardware Emulator](https://www.habster.ch)
 
 ---
 
