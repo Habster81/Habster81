@@ -47,6 +47,20 @@ NDI Signal Stabilizer is a free Windows application that maintains a constant ou
 
 ⬇️ **[Download from Official Website](https://www.habster.ch/ndi-signal-stabilizer/)**
 
+
+### 🎥 ATEM Hardware Emulator
+
+**Use ATEM Software Control without connected hardware to setup a show.**
+
+ATEM Hardware Emulator is a free Windows application to Control and plan a Constellation setup without a physical switcher. Select a model to review its inputs, keyers, SuperSource and Multiview layout before you have access to the hardware.
+
+**Key Features:**
+- Start and control the software without a physical switcher
+
+📂 **[View GitHub Project](https://github.com/Habster81/ATEM-Hardware-Emulator)**
+
+⬇️ **[Download from Official Website](https://www.habster.ch/ATEM-Hardware-Emulator/)**
+
 ---
 
 ## 🔧 About My Software
